@@ -1,0 +1,181 @@
+"study","pubid","week_visit","time_point","time_point_unit","group","treatment","assay","antigen","parent","population","mag"
+"CVD725","cvd725_036","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.021801268445512
+"CVD725","cvd725_036","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0118081504034132
+"CVD725","cvd725_036","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0138561148388019
+"CVD725","cvd725_036","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00977557034563429
+"CVD725","cvd725_023","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.000562948307223981
+"CVD725","cvd725_023","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00324450979231141
+"CVD725","cvd725_023","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0254301780924095
+"CVD725","cvd725_023","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00662809962664626
+"CVD725","cvd725_151","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00345815401759081
+"CVD725","cvd725_151","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00597809303506658
+"CVD725","cvd725_151","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0106574483328614
+"CVD725","cvd725_151","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00469873941206178
+"CVD725","cvd725_088","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.00299950483028624
+"CVD725","cvd725_088","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",-0.00225652134669194
+"CVD725","cvd725_088","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","154+",0.00444103573594197
+"CVD725","cvd725_088","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.00225652134669194
+"CVD725","cvd725_005","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0143113871092566
+"CVD725","cvd725_005","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0153209374555324
+"CVD725","cvd725_005","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00989553935296029
+"CVD725","cvd725_005","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00351983804678601
+"CVD725","cvd725_051","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00481662696606399
+"CVD725","cvd725_051","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",-0.00395220467150592
+"CVD725","cvd725_051","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00969854402406019
+"CVD725","cvd725_051","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",-0.00119821827619871
+"CVD725","cvd725_001","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",0.000796006578530429
+"CVD725","cvd725_001","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",-0.0215775645984007
+"CVD725","cvd725_001","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","154+",-0.0131164885246578
+"CVD725","cvd725_001","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.0238032774832326
+"CVD725","cvd725_187","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.00834713790735677
+"CVD725","cvd725_187","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.000901800279433327
+"CVD725","cvd725_187","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",-0.0223203178485118
+"CVD725","cvd725_187","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",-0.00459762393164863
+"CVD725","cvd725_153","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0156604822643297
+"CVD725","cvd725_153","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",-0.00540063942219808
+"CVD725","cvd725_153","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0631229134103803
+"CVD725","cvd725_153","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0101973426445791
+"CVD725","cvd725_164","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.000925937598460216
+"CVD725","cvd725_164","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",0.000679655674012221
+"CVD725","cvd725_164","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","154+",0.0108634506328905
+"CVD725","cvd725_164","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.0123949765742599
+"CVD725","cvd725_056","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.0122383743014405
+"CVD725","cvd725_056","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0028798337303195
+"CVD725","cvd725_056","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00728645300463776
+"CVD725","cvd725_056","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0145947301139665
+"CVD725","cvd725_046","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0222874020034843
+"CVD725","cvd725_046","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0324304125752296
+"CVD725","cvd725_046","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00689471916136987
+"CVD725","cvd725_046","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00900753490674169
+"CVD725","cvd725_191","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.0145362411944515
+"CVD725","cvd725_191","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",-0.00532081716667069
+"CVD725","cvd725_191","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00395786267087949
+"CVD725","cvd725_191","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0129403221489872
+"CVD725","cvd725_009","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0274794147469672
+"CVD725","cvd725_009","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00970570919399281
+"CVD725","cvd725_009","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0259264182618654
+"CVD725","cvd725_009","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0119803212729041
+"CVD725","cvd725_062","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00753356500425161
+"CVD725","cvd725_062","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00452667923584195
+"CVD725","cvd725_062","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0149785934227683
+"CVD725","cvd725_062","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0010696137855145
+"CVD725","cvd725_080","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",0.00377271359662433
+"CVD725","cvd725_080","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",0.00142694770406041
+"CVD725","cvd725_080","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","154+",-0.00561034997363135
+"CVD725","cvd725_080","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.00352775422629187
+"CVD725","cvd725_193","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.0249779774227546
+"CVD725","cvd725_193","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",-0.000731182443220124
+"CVD725","cvd725_193","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",-0.0084857992692715
+"CVD725","cvd725_193","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",-0.0245974956117219
+"CVD725","cvd725_121","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.00789716973159542
+"CVD725","cvd725_121","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",0.000786491111816646
+"CVD725","cvd725_121","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","154+",-0.0065888250469857
+"CVD725","cvd725_121","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",0.00203993020819207
+"CVD725","cvd725_165","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.00304376940402995
+"CVD725","cvd725_165","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",-0.00304376940402995
+"CVD725","cvd725_165","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","154+",0.000401892507623278
+"CVD725","cvd725_165","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",0.00384755441927651
+"CVD725","cvd725_177","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00411376670191433
+"CVD725","cvd725_177","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00535589952332494
+"CVD725","cvd725_177","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0120932405017335
+"CVD725","cvd725_177","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0
+"CVD725","cvd725_070","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00467117603245966
+"CVD725","cvd725_070","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00951264592511242
+"CVD725","cvd725_070","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0150806288113192
+"CVD725","cvd725_070","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0114952589299314
+"CVD725","cvd725_113","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0101111459841677
+"CVD725","cvd725_113","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00383665539091369
+"CVD725","cvd725_113","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00372714819143742
+"CVD725","cvd725_113","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00186357409571871
+"CVD725","cvd725_185","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",0
+"CVD725","cvd725_185","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",-0.00184660271265938
+"CVD725","cvd725_185","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","154+",0
+"CVD725","cvd725_185","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.00184660271265938
+"CVD725","cvd725_077","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0375611625155964
+"CVD725","cvd725_077","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0349149598164696
+"CVD725","cvd725_077","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0320130541328109
+"CVD725","cvd725_077","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0267599876552546
+"CVD725","cvd725_100","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.00162913450661262
+"CVD725","cvd725_100","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00292591036702535
+"CVD725","cvd725_100","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00801184658668888
+"CVD725","cvd725_100","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0130698635810156
+"CVD725","cvd725_110","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00305561329054172
+"CVD725","cvd725_110","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",-0.00637602614170718
+"CVD725","cvd725_110","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0305186121475776
+"CVD725","cvd725_110","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0203630416932511
+"CVD725","cvd725_154","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.00188407298898759
+"CVD725","cvd725_154","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0022873873461732
+"CVD725","cvd725_154","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0180009913391955
+"CVD725","cvd725_154","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0198850643281831
+"CVD725","cvd725_016","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",0
+"CVD725","cvd725_016","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",-0.00206200447454971
+"CVD725","cvd725_016","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","154+",0.00408088310310351
+"CVD725","cvd725_016","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-2.1562922997954e-05
+"CVD725","cvd725_047","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0346691606855918
+"CVD725","cvd725_047","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0244418265786036
+"CVD725","cvd725_047","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0288619243248725
+"CVD725","cvd725_047","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0160828276644613
+"CVD725","cvd725_014","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0153061224489796
+"CVD725","cvd725_014","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0116589593668859
+"CVD725","cvd725_014","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0306876219284978
+"CVD725","cvd725_014","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0230155602698893
+"CVD725","cvd725_180","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.00161496099869188
+"CVD725","cvd725_180","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",0.000537196539239895
+"CVD725","cvd725_180","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","154+",4.45421460665778e-05
+"CVD725","cvd725_180","Wk10 (V08)",70,"days","Group 1","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.00161496099869188
+"CVD725","cvd725_079","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0142346761750663
+"CVD725","cvd725_079","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00960089902885521
+"CVD725","cvd725_079","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0185523793751935
+"CVD725","cvd725_079","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0159172291057494
+"CVD725","cvd725_114","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0255898002741129
+"CVD725","cvd725_114","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0275853302868842
+"CVD725","cvd725_114","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0254201759856796
+"CVD725","cvd725_114","Wk10 (V08)",70,"days","Group 1","20 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0205199767109091
+"CVD725","cvd725_163","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00423971416138456
+"CVD725","cvd725_163","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00330043895838147
+"CVD725","cvd725_163","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0134347278554237
+"CVD725","cvd725_163","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0113165377052891
+"CVD725","cvd725_198","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",0.0027400341250617
+"CVD725","cvd725_198","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",0.000230655321784447
+"CVD725","cvd725_198","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","154+",0.000174934806903211
+"CVD725","cvd725_198","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",0.0013739036936606
+"CVD725","cvd725_116","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0184000163555701
+"CVD725","cvd725_116","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00495213908203609
+"CVD725","cvd725_116","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0205822917446299
+"CVD725","cvd725_116","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",-0.00339897479528398
+"CVD725","cvd725_092","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0115334813690692
+"CVD725","cvd725_092","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00845915964130036
+"CVD725","cvd725_092","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.00593477341061724
+"CVD725","cvd725_092","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00593477341061724
+"CVD725","cvd725_064","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0100195611501123
+"CVD725","cvd725_064","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0128756703677288
+"CVD725","cvd725_064","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.013348927379857
+"CVD725","cvd725_064","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0119157683466371
+"CVD725","cvd725_030","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.00100587430594673
+"CVD725","cvd725_030","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",0.00226813944521309
+"CVD725","cvd725_030","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","154+",-0.00100587430594673
+"CVD725","cvd725_030","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",0
+"CVD725","cvd725_068","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",-0.00144709665621205
+"CVD725","cvd725_068","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",-0.0011859863848763
+"CVD725","cvd725_068","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0417572480958043
+"CVD725","cvd725_068","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0174732166005962
+"CVD725","cvd725_112","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0165217910012471
+"CVD725","cvd725_112","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.0100952279501634
+"CVD725","cvd725_112","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0306066124131517
+"CVD725","cvd725_112","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0133643749783032
+"CVD725","cvd725_032","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.0129922972753072
+"CVD725","cvd725_032","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00604468952179114
+"CVD725","cvd725_032","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.011289985418215
+"CVD725","cvd725_032","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.0034436910790713
+"CVD725","cvd725_117","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00851391696230682
+"CVD725","cvd725_117","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00969564275465397
+"CVD725","cvd725_117","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.03949409323776
+"CVD725","cvd725_117","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.022072465775683
+"CVD725","cvd725_152","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","154+",-0.00123001279019127
+"CVD725","cvd725_152","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","eOD-GT8","CD4+","IL2+",-0.00346039415602667
+"CVD725","cvd725_152","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","154+",-0.00602405119277638
+"CVD725","cvd725_152","Wk10 (V08)",70,"days","Group 2","DPBS sucrose","ICS","LumSyn","CD4+","IL2+",-0.00117344971819353
+"CVD725","cvd725_059","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","154+",0.00858855734108619
+"CVD725","cvd725_059","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","eOD-GT8","CD4+","IL2+",0.00977684321740942
+"CVD725","cvd725_059","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","154+",0.0204732672027909
+"CVD725","cvd725_059","Wk10 (V08)",70,"days","Group 2","100 µg eOD-GT8 60mer + AS01B","ICS","LumSyn","CD4+","IL2+",0.00349481551352511
