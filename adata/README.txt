@@ -52,8 +52,8 @@ The data folder contains 5 csv files as follows:
 5. cvd725_association_TandBcell_2022DEC28.csv:
 	This file contains data needed to associate the frequencies of T and B cell responses within and between peripheral and lymph node compartments (Figure 4). 
 	
-	Number of variables: 13
+	Number of variables: 14
 	Number of rows: 633
-	Variable List: pubid, week_visit, group, treatment, time_point, time_point_unit, assay, parent, population, pop_name, mag, response, antigen
+	Variable List: study, pubid, week_visit, group, treatment, time_point, time_point_unit, assay, parent, population, pop_name, mag, response, antigen
 
 	
