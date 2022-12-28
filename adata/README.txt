@@ -10,14 +10,15 @@ DATA & FILE OVERVIEW
 
 The data folder contains 5 csv files as follows:
 1. cvd725_ics_2022DEC27.csv: 
-	This file contains data to plot the background-adjusted frequencies of cytokine-positive eOD-GT8 and LumSyn-specific CD4 (Figure 1B) and CD8 (Figure 1D) T cells at week 10.
+	This file contains data to plot the background-adjusted frequencies of cytokine-positive eOD-GT8 and LumSyn-specific CD4 (Figure 1B) and CD8 (Figure 1D) T cells 
+	at week 10.
 	
 	Number of variables: 41
 	Number of rows: 3359
 	Variable List: study, pubid, visitno, visit_day, group,	treat, assay, antigen, parent, population, pop_table,	response_p, experiment_name, count_bg,	
-	parent_count_bg, drawdt, plate,	runnum,	samp_ord, well_id, count, parent_count,	filter,	filter_reason, percent_cell, percent_cell_neg,	percent_cell_net,
-	percent_cell_net_trunc,	filter_bg, response_adj_p, MIMOSA_response_prob, MIMOSA_N, Q2.5, Q25, Q50, Q75,	Q97.5, response_fisher,	response_fisher_adj,
-	response_MIMOSA, pop_grouping
+	               parent_count_bg, drawdt, plate, runnum,	samp_ord, well_id, count, parent_count,	filter,	filter_reason, percent_cell, percent_cell_neg,	
+		       percent_cell_net, percent_cell_net_trunc, filter_bg, response_adj_p, MIMOSA_response_prob, MIMOSA_N, Q2.5, Q25, Q50, Q75, Q97.5, 
+		       response_fisher,	response_fisher_adj, response_MIMOSA, pop_grouping
 
 
 2. cvd725_Tfh_ics_2022DEC23.csv:
@@ -35,7 +36,8 @@ The data folder contains 5 csv files as follows:
 	
 	Number of variables: 23
 	Number of rows: 31143
-	Variable List: study, pubid, stim, replicate, num_pos_2_of_func, ifng, il2, tnfa, cd154, il17a, il4, gzb, cxcr5, pd-1, icos, cd45ra, ccr7, umap1, umap2, cluster, treat, visit_day, stim_treat
+	Variable List: study, pubid, stim, replicate, num_pos_2_of_func, ifng, il2, tnfa, cd154, il17a, il4, gzb, cxcr5, pd-1, icos, cd45ra, ccr7, umap1, umap2, 
+		       cluster, treat, visit_day, stim_treat
 
 
 4. cvd725_epitope_mapping_ics_2022DEC28.csv:
@@ -43,10 +45,11 @@ The data folder contains 5 csv files as follows:
 	
 	Number of variables: 48 
 	Number of rows: 3519
-	Variable List: study, pubid, peptide_id, peptide_grp, aa_sequence, start, end, antigen, population, parent, visitno, treat, response_p, specrole, count_bg, parent_count_bg,
-	replicate, analysis_plan_id, exp_assay_id, group, plate, protocol, runnum, samp_ord, stdy_desc, well_id, count, parent_count, filter_1, filter_2, filter_3, filter_reason,
-	percent_cell, percent_cell_neg, percent_cell_net, percent_cell_net_trunc, filter_bg, response_adj_p, parent_pop, mimosa_response_prob, mimosa_n, seed, response_fisher,
-	response_fisher_adj, response_mimosa, parent_plot, peptide_group, ics_primary_filter
+	Variable List: study, pubid, peptide_id, peptide_grp, aa_sequence, start, end, antigen, population, parent, visitno, treat, response_p, specrole, count_bg, 
+		       parent_count_bg, replicate, analysis_plan_id, exp_assay_id, group, plate, protocol, runnum, samp_ord, stdy_desc, well_id, count, parent_count, 
+		       filter_1, filter_2, filter_3, filter_reason, percent_cell, percent_cell_neg, percent_cell_net, percent_cell_net_trunc, filter_bg, response_adj_p, 
+		       parent_pop, mimosa_response_prob, mimosa_n, seed, response_fisher, response_fisher_adj, response_mimosa, parent_plot, peptide_group, 
+		       ics_primary_filter
 
 
 5. cvd725_association_TandBcell_2022DEC28.csv:
