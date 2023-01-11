@@ -1,5 +1,5 @@
 This README file was generated on 2022-12-28 by Bhavesh Borate.
-It documents the contents of data folder for Cohen et al. manuscript: 
+It documents the contents of "data" and "code" folders for Cohen et al. manuscript: 
 "First-in-human germline-targeting HIV nanoparticle vaccine induced broad and publicly-targeted helper T cell responses". 
 
 Principal Investigator: William Schief, PhD
@@ -8,7 +8,7 @@ Email: schief@scripps.edu
 
 DATA & FILE OVERVIEW
 
-The data folder contains 5 csv files as follows:
+The "data" folder contains 5 csv files as follows:
 1. cvd725_ics_2022DEC27.csv: 
 	This file contains data to plot the background-adjusted frequencies of cytokine-positive eOD-GT8 and LumSyn-specific CD4 (Figure 1B) and CD8 (Figure 1D) T cells 
 	at week 10.
@@ -60,3 +60,24 @@ The data folder contains 5 csv files as follows:
 	Variable List: study, pubid, week_visit, group, treatment, time_point, time_point_unit, assay, parent, population, pop_name, mag, response, antigen
 
 	
+	
+
+
+CODE OVERVIEW 
+
+NOTE: The current version of the code (which was used for the study) does not function on de-identified data.
+
+The "code" folder contains 3 .R files as follows:
+1. Tcell-figures.R: 
+  This code reads in cvd725_ics_2022DEC27.csv, cvd725_tfh_ics_2022DEC23.csv, and
+  cvd725_association_TandBcell_2022DEC28.csv and plots Figures 1B, 1C, 1D 
+  and 4 in the T-cell manuscript.
+
+2. epitope_mapping_report.R:
+	This code reads in cvd725_epitope_mapping_ics_2022DEC28.csv to map the 
+	immunodominant T cell responses to eOD-GT8 and LumSyn (Figure 3).
+
+3. UMAP-figures.R:
+  This code reads in cvd725_cluster_ics_2022DEC27.csv and generates results 
+  from the K-means clustering analysis (Figure 2).
+
