@@ -2,9 +2,9 @@ This README file was generated on 2022-12-28 by Bhavesh Borate.
 It documents the contents of "data" and "code" folders for Cohen et al. manuscript: 
 "First-in-human germline-targeting HIV nanoparticle vaccine induced broad and publicly-targeted helper T cell responses". 
 
-Principal Investigator: William Schief, PhD
-Institution: Scripps Research 
-Email: schief@scripps.edu
+Principal Investigator: William Schief, PhD  
+Institution: Scripps Research  
+Email: schief@scripps.edu   
 
 DATA & FILE OVERVIEW
 
